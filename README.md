@@ -1,6 +1,6 @@
 # Bikesharing with NYC Citibike Data from 2019
 
-This data is solely from August 2019.
+This data is solely from August 2019. Tableau presentation can be found in https://public.tableau.com/app/profile/miranda.jimenez/viz/BikesharingCitibikeproject/FinalPresentation?publish=yes
 
 ## Overview
 
