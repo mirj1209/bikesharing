@@ -36,6 +36,8 @@ The line graph shows the average trip duration in minutes with the number of rid
 
 To take this a little further, the heatmap and line graph above are the same as previous but these ones are divided by gender. As stated earlier, a large portion of the demographic are male and these graphs further reinforce that idea. Additionally, even though there's a much larger number of male customers than female customers, the bike usage pattern; of peaking during working rush hours; are the same therefore, if we appeal to one (most likely male) it can also count as for appealing towards female customers as well. 
 
+![image](https://user-images.githubusercontent.com/104941338/185280067-e3a38c2d-ffdd-477e-ad84-66ad13cefdac.png)
+
 ## Summary 
 
 In conclusion, bikeshare is incredibly popular in busy metropolitan areas and where parking may be scarce. The user base is made up mostly of male customers providing a regular income to the project/program. Some research/outreach should be done to appeal to more female customers while maintaing the solid male customer base. Lastly, usage seems to be the busyest during morning hours.
